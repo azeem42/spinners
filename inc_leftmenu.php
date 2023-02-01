@@ -19,11 +19,17 @@
                         IN+
                     </div>
                 </li>
-                <li>
-                    <a href="spinners.php"> <span class="nav-label">Spinners</span></a>
+                
+                <li> 
+
+                <a href="spinners.php"> <span class="nav-label active">Spinners</span>
+                </a> 
                 </li>
+                
                 <li>
-                    <a href="table_basic.php"> <span class="nav-label">Tables</span></a>
+
+                <a href="table_basic.php"> <span class="nav-label active">Tables</span>
+                </a>
                 </li>
                 
             </ul>

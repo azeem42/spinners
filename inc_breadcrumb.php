@@ -6,7 +6,6 @@
         
         <ol class="breadcrumb">
         
-           
             <li class="breadcrumb-item">
                 <a href="index-2.html">
                 <?php echo $items; ?>        
